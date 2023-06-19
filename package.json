@@ -45,10 +45,10 @@
     "postcss": "8.4.6",
     "sass": "1.44.0",
     "stylelint": "15.6.1",
-    "webpack": "^5.73.0"
+    "webpack": "^5.73.0",
+    "eslint-webpack-plugin": "^4.0.1"
   },
   "devDependencies": {
-    "eslint-webpack-plugin": "^4.0.1",
     "webpack-bundle-analyzer": "^4.5.0"
   },
   "browserslist": [
